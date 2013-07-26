@@ -141,3 +141,7 @@ hash is the sha1 hash of the file you want to download,
 chunk is the 0 indexed chunk.
 
 The response will be the `CHUNK_SIZE` chunk of the file.
+
+## License
+
+MIT
